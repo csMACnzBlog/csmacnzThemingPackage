@@ -1,0 +1,12 @@
+{
+  "name": "ghostthemingpackage",
+  "version": "1.0.0",
+  "devDependencies": {
+    "assemble-less": "latest",
+    "grunt": "latest",
+    "grunt-contrib-copy": "latest",
+    "grunt-contrib-cssmin": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-cssrb": "^0.1.2"
+  }
+}
